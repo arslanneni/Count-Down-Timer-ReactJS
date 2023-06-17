@@ -16,13 +16,13 @@ h1 {
   display: flex;
   justify-content: center;
   margin-bottom: 20px;
-  color: #fff; /* Set the text color to white */
+  color: #fff;
 }
 
 .countdown p {
   margin-right: 10px;
   font-size: 20px;
-  opacity: 0.9; /* Reduce the opacity to make it appear darker */
+  opacity: 0.9;
 }
 
 .input-container {
@@ -56,4 +56,28 @@ h1 {
   color: red;
   font-size: 14px;
   margin-bottom: 10px;
+}
+
+@media (max-width: 768px) {
+  .countdown-container {
+    margin-top: 50px;
+  }
+
+  h1 {
+    font-size: 20px;
+  }
+
+  .countdown p {
+    font-size: 18px;
+  }
+
+  .input-container {
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+  }
+
+  .input-container input {
+    width: 100%;
+    max-width: 300px;
+  }
 }
