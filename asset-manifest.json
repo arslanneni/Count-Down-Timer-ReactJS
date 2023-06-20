@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Count-Down-Timer-ReactJS/static/css/main.f12df487.css",
+    "main.js": "/Count-Down-Timer-ReactJS/static/js/main.d38e9e31.js",
+    "static/js/787.482db2ac.chunk.js": "/Count-Down-Timer-ReactJS/static/js/787.482db2ac.chunk.js",
+    "index.html": "/Count-Down-Timer-ReactJS/index.html",
+    "main.f12df487.css.map": "/Count-Down-Timer-ReactJS/static/css/main.f12df487.css.map",
+    "main.d38e9e31.js.map": "/Count-Down-Timer-ReactJS/static/js/main.d38e9e31.js.map",
+    "787.482db2ac.chunk.js.map": "/Count-Down-Timer-ReactJS/static/js/787.482db2ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f12df487.css",
+    "static/js/main.d38e9e31.js"
+  ]
+}
